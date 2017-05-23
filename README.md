@@ -3,7 +3,7 @@
 Oferece um mecanismo simples e podersoso para implementar e manipular conteúdo de áudio dentro de aplicações web.
 *Utilizar Mozilla Firefox*
 
-![](/apis/web-audio/images/screenshot.png)
+![](/images/screenshot.png)
 
 
 ## Links do Exemplo
